@@ -1,5 +1,6 @@
 # check-links
-Simple python script for checking live links
+Simple multithreading python script for checking live links while doing bug bounty.
+It's only examined the link that has the status code other than 404
 
 Usage :
 -
