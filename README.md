@@ -17,3 +17,10 @@ Installation :
 ```bash
 git clone https://github.com/zulfi0/check-links.git
 ```
+-
+Update:
+```
+1. Change the requests library to urllib3 
+2. Change my shit code to be better
+3. Work Faster (not fast enough)
+```
