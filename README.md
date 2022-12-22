@@ -4,7 +4,7 @@ Simple multithreading python script for checking live links while doing bug boun
 Usage :
 -
 ```python
-python3 checks.py -f files.txt -t [threads number] -o outputfile.txt
+python3 checks.py -f files.txt -t [threads number]
 ```
 or
 - 
